@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá 👋
+
+- 🌱 Atualmente estudo Desenvolvimento Fullstack pela Arnia - Escola de Programção (Módulo 1)
+- 📫 Contete-me no email: jailsondevv@gmail.com
+- 😄 Pronomes: Ele/Dele
 
 <!--
 **jailsoncodes/jailsoncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
