@@ -1,4 +1,4 @@
-### Olá, sou o Jailson Pereira👋
+### Olá, sou o Jailson 👋
 
 - 🌱 Estudante de Desenvolvimento Fullstack pela Arnia - Escola de Programção (Módulo 1)
 - 📫 Contete-me no email: jailsondevv@gmail.com
