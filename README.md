@@ -1,6 +1,6 @@
-### Olá 👋
+### Olá, sou o Jailson Pereira👋
 
-- 🌱 Atualmente estudo Desenvolvimento Fullstack pela Arnia - Escola de Programção (Módulo 1)
+- 🌱 Estudante de Desenvolvimento Fullstack pela Arnia - Escola de Programção (Módulo 1)
 - 📫 Contete-me no email: jailsondevv@gmail.com
 - 😄 Pronomes: Ele/Dele
 
