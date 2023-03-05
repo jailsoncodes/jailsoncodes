@@ -19,8 +19,8 @@
 
 
 <div align="center">
-<img width="450em" alt="Status Github Jailson" src="https://github-readme-stats.vercel.app/api?username=jailsoncodes&show_icons=true&theme=dracula" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsoncodes&layout=compact&theme=dracula"/>
+<img width="450em" alt="Status Github Jailson" src="https://github-readme-stats.vercel.app/api?username=jailsoncodes&show_icons=true&theme=dark" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsoncodes&layout=compact&theme=dark"/>
 </div>
 
 
