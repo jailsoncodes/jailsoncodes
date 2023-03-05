@@ -17,6 +17,13 @@
   
 </div>
 
+
+<div align="center">
+<img width="450em" alt="Status Github Jailson" src="https://github-readme-stats.vercel.app/api?username=jailsoncodes&show_icons=true&theme=dracula" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsoncodes&layout=compact&theme=dracula"/>
+</div>
+
+
 ![Snake animation](https://github.com/jailsoncodes/jailsoncodes/blob/output/github-contribution-grid-snake.svg)
 <!--
 **jailsoncodes/jailsoncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
