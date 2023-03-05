@@ -1,7 +1,7 @@
 ### Olá, sou o Jailson 👋
 
-- 🌱 Estudante de Desenvolvimento Fullstack pela Arnia - Escola de Programção (Módulo 1)
-- 📫 Contete-me no email: jailsondevv@gmail.com
+- 🌱 Estudante de Desenvolvimento Fullstack pela Arnia - Escola de Programação (Módulo 1)
+- 📫 Contate-me no email: jailsondevv@gmail.com
 - 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
